@@ -25,3 +25,7 @@ export FIGURE_RENAME_HOSTS=gpu-host1,gpu-host2          # リモートで動か�
 - 設計判断: `docs/adr/0001-figure-rename-design.md`、`docs/adr/0002-category-in-name.md`、`docs/adr/0003-heic-to-jpeg.md`
 
 オプションは `./figure_rename.py --help` で確認できます。
+
+## License
+
+MIT
